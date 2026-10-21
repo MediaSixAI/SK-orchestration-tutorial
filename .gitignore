@@ -434,5 +434,4 @@ appsettings.*.local.json
 secrets.json
 
 # Local AI-assistant authoring config (not part of the published course)
-CLAUDE.md
 .claude/
